@@ -1,0 +1,8 @@
+Based on the clients requirements design a  subnet using 192.168.5.0 to provide sufficient addressing for each LAN.
+Also note that the point-to-point connection between R1 and R2
+
+assign the first usable address to the pc in each lan
+
+Assign the last usable address to the routers interface in each lan
+
+configure static routers on each so tha all pc can ping each other.
